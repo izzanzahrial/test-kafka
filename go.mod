@@ -1,0 +1,5 @@
+module github.com/izzanzahrial/test-kafka
+
+go 1.17
+
+require github.com/confluentinc/confluent-kafka-go v1.9.1
